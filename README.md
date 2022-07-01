@@ -1,5 +1,5 @@
 # ClassicSnakeGame
-**Classic Snake Game** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Classic Snake Game** is a fun game that allows user to feed their snake food pieces that will appear at random places in the game canvas. This will help the snake grow bigger and bigger in size. If the snake hits itself or the canvas boundary then it will die and then the game will stop.
 
 Time spent: **3** hours spent in total
 
