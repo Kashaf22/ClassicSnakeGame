@@ -16,9 +16,9 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's ![Classic SnakeGame](https://user-images.githubusercontent.com/89542741/176856591-24bb5ebf-e9bd-4e40-8755-21e809b9bd5c.gif)
 
-<img src='https://imgur.com/a/PrGPCrB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 
