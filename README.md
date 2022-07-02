@@ -9,8 +9,8 @@ The following functionality is completed:
 
 - [x] User can press any key on the keyboard to start the game.
 - [x]	User will hear background music when the game is running, when the snake eats the food and when it collides with itself or the walls.
- -[x] User score will be updated on scoreboard everytime their snake eats food and grows bigger.
- -[x] User can see the highestscore made by any previous player on the score board.
+- [x] User score will be updated on scoreboard everytime their snake eats food and grows bigger.
+- [x] User can see the highestscore made by any previous player on the score board.
 - [x] Highestscore will be updated if a new record is made by the current player.
 
 
