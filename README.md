@@ -19,9 +19,6 @@ The following functionality is completed:
 ![Classic SnakeGame](https://user-images.githubusercontent.com/89542741/176856591-24bb5ebf-e9bd-4e40-8755-21e809b9bd5c.gif)
 
 
-
-
-
 ## Notes
 
 Describe any challenges encountered while building the game ?
@@ -29,10 +26,6 @@ Describe any challenges encountered while building the game ?
 I encountered few challenges while building this game. I divided my game canvas in grid format but after testing my code I realized my snake was not moving properly when the game was running. The snake would not move from one position to another instead it was staying in one place and stretching across the y-axis. I debugged my code and I realized there was an issue in my CSS file. I had forgotten to put the rows divison for my canvas grid. When I added this piece of code "grid-template-rows: repeat(18, 1fr)" then my snake moved perfectly fine. 
 Also, I wanted to store the highest score history of the game on my scoreboard and I was not aware how to implement that. It was quite challenging for me but I used online resources to find help and this stack over flow channel helped me a lot(https://stackoverflow.com/questions/26440147/use-local-storage-to-remember-the-high-score-javascript). I got to learn that I have to use local storage to remember the score history. 
 
-## Open-source libraries used
-
-- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 ## License
 
